@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahaguru1811
-- 👀 I’m interested in software esting 
+- 👀 I’m interested in software Testing 
 - 🌱 I’m currently learning java full stack test engineer with automation 
 - 💞️ I’m looking to collaborate on  software testing 
 - 📫 How to reach me mahaguru2003@gmail.com
